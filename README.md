@@ -1,2 +1,2 @@
 # FamiSound
- C# Scripts for simulating the Famicom APU
+ Godot Nodes for emulating NES Audio through streamed audio
