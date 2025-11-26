@@ -1,2 +1,2 @@
 # FamiSound
- GDExtension for simulating the Famicom APU
+ C# Scripts for simulating the Famicom APU
